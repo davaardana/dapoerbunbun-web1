@@ -1,10 +1,69 @@
-# Dapoer Bun-Bun Website
+# 🍰 Dapoer Bun-Bun Website
 
-Website untuk Dapoer Bun-Bun - Makanan Rumahan Fresh & Lezat
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/davaardana/dapoerbunbun-web1)
 
-## 🚀 Instalasi
+Website resmi untuk **Dapoer Bun-Bun** - Makanan Rumahan Fresh & Lezat
 
-1. Install dependencies:
+## 🌐 Live Website
+
+- **Repository**: https://github.com/davaardana/dapoerbunbun-web1
+- **Deploy di Vercel**: [![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/davaardana/dapoerbunbun-web1)
+
+## ✨ Fitur Website
+
+- 🎨 Desain modern dengan tema gold & cream yang elegan
+- 📱 Responsive untuk semua ukuran layar (mobile, tablet, desktop)
+- 🎭 Animasi smooth scroll dan fade-in yang menarik
+- 🍰 Section showcase untuk 6 produk unggulan
+- 📞 Integrasi WhatsApp untuk pemesanan langsung
+- 💳 Custom menu request
+- ⚡ Performance optimal dengan Next.js 15
+- 🔒 SSL/HTTPS ready
+
+## 🚀 Quick Deploy
+
+### Deploy ke Vercel (1 Klik!)
+
+Klik tombol di bawah untuk deploy website ini ke Vercel:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/davaardana/dapoerbunbun-web1)
+
+### Atau Deploy Manual:
+
+1. Fork repository ini
+2. Buka https://vercel.com
+3. Import repository
+4. Deploy!
+
+**Baca panduan lengkap**: [CARA-DEPLOY.md](CARA-DEPLOY.md)
+
+## 📦 Produk yang Ditampilkan
+
+1. **Fudgy Brownies Original** - Brownies coklat lembut dengan tekstur fudgy
+2. **Choux Cream Vanilla** - Sus lembut isi krim vanilla
+3. **Marble Choux** - Sus marmer vanilla dan coklat
+4. **Nastar Cake** - Kue nastar premium dengan selai nanas
+5. **Bolu Ketan Hitam** - Bolu lembut rasa ketan hitam
+6. **Tasoka** - Gorengan tradisional gurih dan lezat
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15.1.3
+- **React**: 19.0.0
+- **Styling**: Tailwind CSS 4.0
+- **TypeScript**: 5.x
+- **Analytics**: Vercel Analytics
+- **Icons**: Lucide React
+- **Deployment**: Vercel
+
+## 💻 Development
+
+### Prerequisites
+
+- Node.js 18.x atau lebih baru
+- npm atau yarn
+
+### Installation
 ```bash
 npm install
 ```
